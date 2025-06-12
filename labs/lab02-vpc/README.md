@@ -74,7 +74,10 @@ Após a instância EC2 iniciar, copie o DNS Público IPv4 da instância e cole n
 - Compreensão sobre NAT
 - Configuração de instâncias EC2 com servidor web via script de inicialização
 
+## ✅ Status
+Laboratório concluído com sucesso e validado visualmente via navegador.
+
 ## 🧑‍💻
 Júlia Karla
-https://www.linkedin.com/in/juliakarla/
+https://www.linkedin.com/in/juliakarla
 Certificação-alvo: AWS Certified Cloud Practitioner
