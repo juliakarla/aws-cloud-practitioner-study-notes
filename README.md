@@ -1,6 +1,6 @@
 # aws-cloud-practitioner-study-notes
 <div>
-  Repositório dedicado às minhas notas de estudo e resumos para a certificação AWS Cloud Practitioner (CLF-C02)
+  # Repositório dedicado às minhas notas de estudo e resumos para a certificação AWS Cloud Practitioner (CLF-C02)
 </div>
 
 ##
