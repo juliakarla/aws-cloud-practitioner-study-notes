@@ -50,8 +50,9 @@
 - **IP Público:** Atribuído automaticamente
 - **Grupo de Segurança:** Web Security Group
 
-### Script de inicialização (Dados do usuário) - bash
+### Script de inicialização (Dados do usuário)
 
+```
 #!/bin/bash
 # Install Apache Web Server and PHP
 dnf install -y httpd wget php mariadb105-server
@@ -61,6 +62,7 @@ unzip lab-app.zip -d /var/www/html/
 # Turn on web server
 chkconfig httpd on
 service httpd start
+```
 
 ## 🌐 Testando o Servidor Web
 Após a instância EC2 iniciar, copie o DNS Público IPv4 da instância e cole no navegador.
