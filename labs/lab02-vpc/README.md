@@ -77,7 +77,8 @@ Após a instância EC2 iniciar, copie o DNS Público IPv4 da instância e cole n
 ## ✅ Status
 Laboratório concluído com sucesso e validado visualmente via navegador.
 
-## 🧑‍💻
-Júlia Karla
-https://www.linkedin.com/in/juliakarla
-Certificação-alvo: AWS Certified Cloud Practitioner
+## 🧑‍💻 
+
+- Júlia Karla 
+- https://www.linkedin.com/in/juliakarla/
+- Certificação-alvo: AWS Certified Cloud Practitioner
