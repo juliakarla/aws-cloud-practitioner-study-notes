@@ -1,6 +1,6 @@
-# 💻 Laboratório 2: Criar a VPC e Executar um Servidor Web
+## Este laboratório faz parte do meu estudo para a certificação **AWS Certified Cloud Practitioner**.
 
-## Este repositório contém a documentação e o resumo das atividades realizadas no Laboratório 2 da jornada de preparação para a certificação **AWS Certified Cloud Practitioner**.
+# 💻 Laboratório 2: Criar a VPC e Executar um Servidor Web
 
 ## 🎯 Objetivos
 
