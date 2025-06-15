@@ -1,3 +1,9 @@
+## Este laboratório faz parte do meu estudo para a certificação AWS Certified Cloud Practitioner.
+
+---
+
+# 💻 Laboratório 3: Introdução ao Amazon EC2
+
 ---
 
 ## 🎯 Objetivos
