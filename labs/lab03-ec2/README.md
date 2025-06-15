@@ -75,5 +75,5 @@ Este laboratório reforçou minha compreensão sobre EC2 e suas funcionalidades 
 
 🧑‍💻
 Júlia Karla
-linkedin.com/in/juliakarla
+https://www.linkedin.com/in/juliakarla/
 Certificação-alvo: AWS Certified Cloud Practitioner
